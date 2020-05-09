@@ -24,3 +24,6 @@ $ catkin_make
 $ source devel/setup.bash
 $ cd src/ShellScripts
 $./Home_service.sh
+```
+![](Home_del1.png)
+![](Home_del2.png)
