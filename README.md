@@ -16,5 +16,11 @@ $ cd ~/catkin_ws
 $ catkin_make
 
 cd ~/catkin_ws/src
-$ git clone
+$ git clone https://github.com/rtshilombo/Udacity-Home-Delivery-Robot.git
+$ catkin_make
 ```
+### Source and run the project
+```
+$ source devel/setup.bash
+$ cd src/ShellScripts
+$./Home_service.sh
