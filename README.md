@@ -6,9 +6,10 @@ This project includes:
 - The ROS Navigation stack using SLAM techniques to localize and navigate the robot in a mapped environment
 - C++ codes add_markers and pick_objects that programmatically display objects and move the Turtlebot to designated locations
 - The Home Delivery script which simulates the robot in both Gazebo and rviz
-
+'''
 $ mkdir -p ~/catkin_ws/src
 $ cd ~/catkin_ws/src
 $ catkin_init_workspace
 $ cd ~/catkin_ws
 $ catkin_make
+'''
